@@ -1,4 +1,4 @@
 const person = {
-  name: 'kyan',
+  name: 'kyan-dev',
   age: 18
 }
